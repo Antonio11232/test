@@ -1,4 +1,5 @@
 - java
 - php
 - develop
-
+- validation
+- add controllers
